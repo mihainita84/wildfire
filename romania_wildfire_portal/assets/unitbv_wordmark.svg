@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="130" viewBox="0 0 500 130">
-<rect width="500" height="130" rx="22" fill="#ffffff"/>
-<circle cx="64" cy="65" r="42" fill="#0b6b3a"/>
-<path d="M64 27l18 30h-12l16 23H70v22H58V80H42l16-23H46z" fill="#ffffff"/>
-<text x="125" y="57" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#17392c">UNITBV</text>
-<text x="125" y="84" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#0b6b3a">Transilvania University of Brașov</text>
-<text x="125" y="106" font-family="Arial, sans-serif" font-size="14" fill="#586761">Faculty of Silviculture and Forest Engineering</text>
-</svg>
